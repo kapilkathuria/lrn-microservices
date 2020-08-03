@@ -10,6 +10,7 @@ export default () => {
         <PostCreate />
         <hr></hr>
         <h1>Posts</h1>
-        <PostList></PostList>
+        <PostList>         
+        </PostList>
     </div>)
 }
